@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+langchain-anthropic
+python-dotenv
+sqlmodel
+pydantic
+pydantic-settings
+pypdf
+markdown
